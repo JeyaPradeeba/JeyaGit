@@ -8,5 +8,19 @@ public class SampleHub {
 		System.out.println(a);
 		System.out.println("123"+a);
 		System.out.println("500");
+	
+	
+	long l =549245;
+	System.out.println(l);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	}
 }
